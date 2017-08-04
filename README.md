@@ -28,7 +28,7 @@ Battery	      |Non-removable Li-Po 3000 mAh battery
 Colors 	      |Pearl White, Midnight Black, Sapphire Blue, Gold
 
 
-![Honor 8](http://cdn2.gsmarena.com/vv/pics/huawei/huawei-honor-V8-1.jpg "Honor8")
+![Honor 8](http://cdn2.gsmarena.com/vv/pics/huawei/huawei-honor-8-1.jpg "Honor8")
 
 
 

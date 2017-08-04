@@ -33,3 +33,4 @@ Colors 	      |Pearl White, Midnight Black, Sapphire Blue, Gold
 
 
 # vendor_honor_knt
+# android_vendor_honor_knt
